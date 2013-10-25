@@ -1,0 +1,4 @@
+sudo apt-get install fswebcam
+
+Run the takepic bash to take picture
+Running start.sh starts the listener on the folder with images.
