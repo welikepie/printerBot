@@ -1,4 +1,5 @@
 sudo apt-get install fswebcam
+npm install -> gpio, forever -g
 
-Run the takepic bash to take picture
-Running start.sh starts the listener on the folder with images.
+Running startTweetPrint.sh starts the listener on the folder with images.
+This runs node/interact.js and printImage.py.

@@ -1,8 +1,8 @@
 var credentials = {
-    consumer_key: 'bslMaXFQl7FTyergvk4bw',
-    consumer_secret: 'AjiW1kKEqEGGFQAFm1S1NvSa8sITcq7NfiJV2Ntonjs',
-    access_token_key: '213861940-NUq0FB0kmiHduVlRvG6njaZLFsMjFMbm5pf3IL8k',
-    access_token_secret: 'VnSyj7WgeJXQg71VNUafuEVYw3wwYSTDb7XhN92aKN4'
+    consumer_key: 'epAQ0hWrtkjV3Wg4fQ7ng',
+    consumer_secret: 'CXjQtEzJuagciKjtUimHDRKNTBHeuO93vKzfiYmzJ0',
+    access_token: '2160576578-AO8wl4cXTKH50m26Xgp4zzckqVWG1CF76D0Ap57',
+    access_token_secret: 'pcvtnRnaDEkVt55PaBsISfp9Swp5uF4BYmK5cMpyvupRu',
 };
 
 module.exports = credentials;

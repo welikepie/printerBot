@@ -15,9 +15,8 @@ printer = Adafruit_Thermal("/dev/ttyAMA0",19200,timeout=5)
 #printer.printImage(img, True);
 
 while 1:
-    time.sleep(2.5);
-    listDir = os.listdir("nodeImages")
-    remArr = array();
+    time.sleep(0.5);
+    listDir = os.listdir("nodeImages");
     if len(listDir) > 0:
         for x in range(0,len(listDir)):
        #for x in range(0,1):
