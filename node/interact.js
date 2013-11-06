@@ -1,8 +1,9 @@
 var gpio = require("gpio");
 var creds = require("./configurables.js");
 var exec = require("child_process").exec;
-var Twitter = require('ntwitter');
 var fs = require('fs');
+
+var Twitter = require('ntwitter');
 
 /*var ntwitter = new Twitter({
  consumer_key: 'epAQ0hWrtkjV3Wg4fQ7ng',
