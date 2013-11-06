@@ -1,7 +1,7 @@
 var fs = require('fs');
 var creds = require('./configurables');
 var fileName = "ubertest.jpg";
-var tweet = "testing stuff";
+var tweet = "Have a picture of a cute kitten from code written for the EventHandler photo booth!";
 var data = fs.readFileSync(fileName);
 var https = require('https');
 var OAuth= require('oauth').OAuth;
